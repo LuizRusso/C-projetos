@@ -1,0 +1,11 @@
+C:\LuizC#\SistemaUnifev\SistemaOne\bin\Debug\SistemaOne.exe.config
+C:\LuizC#\SistemaUnifev\SistemaOne\bin\Debug\SistemaOne.exe
+C:\LuizC#\SistemaUnifev\SistemaOne\bin\Debug\SistemaOne.pdb
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.csproj.AssemblyReference.cache
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.Properties.Resources.resources
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.csproj.GenerateResource.cache
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.csproj.CoreCompileInputs.cache
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.exe
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.pdb
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.exe.config
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.PrincipalForm.resources
