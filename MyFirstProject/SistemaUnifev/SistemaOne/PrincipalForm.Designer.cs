@@ -40,11 +40,12 @@
             this.sobreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
-            this.directorySearcher1 = new System.DirectoryServices.DirectorySearcher();
             this.saudacaoToolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
             this.horaToolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
+            this.directorySearcher1 = new System.DirectoryServices.DirectorySearcher();
             this.horaTimer = new System.Windows.Forms.Timer(this.components);
+            this.alunosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -74,18 +75,20 @@
             // entrarToolStripMenuItem
             // 
             this.entrarToolStripMenuItem.Name = "entrarToolStripMenuItem";
-            this.entrarToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
+            this.entrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.entrarToolStripMenuItem.Text = "Entrar";
             // 
             // fecharToolStripMenuItem
             // 
             this.fecharToolStripMenuItem.Name = "fecharToolStripMenuItem";
-            this.fecharToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
+            this.fecharToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.fecharToolStripMenuItem.Text = "Fechar";
             this.fecharToolStripMenuItem.Click += new System.EventHandler(this.fecharToolStripMenuItem_Click);
             // 
             // cadastrosToolStripMenuItem
             // 
+            this.cadastrosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.alunosToolStripMenuItem});
             this.cadastrosToolStripMenuItem.Name = "cadastrosToolStripMenuItem";
             this.cadastrosToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
             this.cadastrosToolStripMenuItem.Text = "Cadastros";
@@ -108,15 +111,16 @@
             // manualToolStripMenuItem
             // 
             this.manualToolStripMenuItem.Name = "manualToolStripMenuItem";
-            this.manualToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
+            this.manualToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.manualToolStripMenuItem.Text = "Manual";
             this.manualToolStripMenuItem.Click += new System.EventHandler(this.manualToolStripMenuItem_Click);
             // 
             // sobreToolStripMenuItem
             // 
             this.sobreToolStripMenuItem.Name = "sobreToolStripMenuItem";
-            this.sobreToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
+            this.sobreToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.sobreToolStripMenuItem.Text = "Sobre";
+            this.sobreToolStripMenuItem.Click += new System.EventHandler(this.sobreToolStripMenuItem_Click);
             // 
             // toolStrip1
             // 
@@ -138,12 +142,6 @@
             this.statusStrip1.TabIndex = 2;
             this.statusStrip1.Text = "statusStrip1";
             // 
-            // directorySearcher1
-            // 
-            this.directorySearcher1.ClientTimeout = System.TimeSpan.Parse("-00:00:01");
-            this.directorySearcher1.ServerPageTimeLimit = System.TimeSpan.Parse("-00:00:01");
-            this.directorySearcher1.ServerTimeLimit = System.TimeSpan.Parse("-00:00:01");
-            // 
             // saudacaoToolStripStatusLabel
             // 
             this.saudacaoToolStripStatusLabel.Name = "saudacaoToolStripStatusLabel";
@@ -162,10 +160,23 @@
             this.horaToolStripStatusLabel.Size = new System.Drawing.Size(78, 17);
             this.horaToolStripStatusLabel.Text = "Carregando...";
             // 
+            // directorySearcher1
+            // 
+            this.directorySearcher1.ClientTimeout = System.TimeSpan.Parse("-00:00:01");
+            this.directorySearcher1.ServerPageTimeLimit = System.TimeSpan.Parse("-00:00:01");
+            this.directorySearcher1.ServerTimeLimit = System.TimeSpan.Parse("-00:00:01");
+            // 
             // horaTimer
             // 
             this.horaTimer.Interval = 1000;
             this.horaTimer.Tick += new System.EventHandler(this.horaTimer_Tick);
+            // 
+            // alunosToolStripMenuItem
+            // 
+            this.alunosToolStripMenuItem.Name = "alunosToolStripMenuItem";
+            this.alunosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.alunosToolStripMenuItem.Text = "Alunos";
+            this.alunosToolStripMenuItem.Click += new System.EventHandler(this.alunosToolStripMenuItem_Click);
             // 
             // PrincipalForm
             // 
@@ -209,6 +220,7 @@
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel2;
         private System.Windows.Forms.ToolStripStatusLabel horaToolStripStatusLabel;
         private System.Windows.Forms.Timer horaTimer;
+        private System.Windows.Forms.ToolStripMenuItem alunosToolStripMenuItem;
     }
 }
 

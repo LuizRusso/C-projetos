@@ -9,3 +9,5 @@ C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.exe
 C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.pdb
 C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.exe.config
 C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.PrincipalForm.resources
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.SobreForm.resources
+C:\LuizC#\SistemaUnifev\SistemaOne\obj\Debug\SistemaOne.AlunoListarForm.resources

@@ -71,5 +71,17 @@ namespace SistemaOne
         {
             horaTimer.Start();
         }
+
+        private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SobreForm sobreForm = new SobreForm();
+            sobreForm.ShowDialog();
+        }
+
+        private void alunosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AlunoListarForm form = new AlunoListarForm();
+            form.ShowDialog();
+        }
     }
 }
