@@ -1,0 +1,17 @@
+P:\Vi\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109436.csproj.AssemblyReference.cache
+P:\Vi\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.exe.config
+P:\Vi\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.exe
+P:\Vi\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.pdb
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109436.csproj.AssemblyReference.cache
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.exe.config
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.exe
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.pdb
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\bin\Debug\Trabalho109351.exe.config
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\bin\Debug\Trabalho109351.exe
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\bin\Debug\Trabalho109351.pdb
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.PerfilForm.resources
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.PrincipalForm.resources
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.Properties.Resources.resources
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.SobreForn.resources
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109436.csproj.GenerateResource.cache
+C:\LuizC#\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109436.csproj.CoreCompileInputs.cache

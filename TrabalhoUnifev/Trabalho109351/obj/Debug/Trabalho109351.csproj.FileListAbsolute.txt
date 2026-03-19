@@ -1,0 +1,16 @@
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\bin\Debug\Trabalho109351.exe.config
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\bin\Debug\Trabalho109351.exe
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\bin\Debug\Trabalho109351.pdb
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.csproj.AssemblyReference.cache
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.PerfilForm.resources
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.PrincipalForm.resources
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.Properties.Resources.resources
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.SobreForn.resources
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.csproj.GenerateResource.cache
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.csproj.CoreCompileInputs.cache
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.exe
+C:\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.pdb
+P:\Vi\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.csproj.AssemblyReference.cache
+P:\Vi\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.exe.config
+P:\Vi\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.exe
+P:\Vi\Vinicius\TrabalhoUnifev\Trabalho109351\obj\Debug\Trabalho109351.pdb
